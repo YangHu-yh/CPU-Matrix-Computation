@@ -5,11 +5,11 @@ This is a course project for EE382C Multicore Computing in UT Austin, conducted 
 
 This repo has 5 folders. The first four folders are the four matrix operations we solved. The las folder is the test case folder used for test and analyze the performance of our code.
 
-Assumptions for our code:
+## Assumptions for our code:
 - Our implemenations assumes the input matrix does not have any zeroes on the diagonal. 
 - Input files are have same format under the test case folder.
 
-How to run the code?
+## How to run the code?
 
 Inverse: 
 - parallel_inverse.c && seq_inverse.c
